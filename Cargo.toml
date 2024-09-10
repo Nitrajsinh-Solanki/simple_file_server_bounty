@@ -1,0 +1,10 @@
+[package]
+name = "simple_file_server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+walkdir = "2.3"
+infer = "0.8.0"
+url-escape = "0.1"
+mime_guess = "2.0"
