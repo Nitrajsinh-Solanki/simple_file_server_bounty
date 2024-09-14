@@ -1,1 +1,1 @@
-D:\simple-http\target\debug\simple-http.exe: D:\simple-http\src\http\mod.rs D:\simple-http\src\http\request.rs D:\simple-http\src\http\response.rs D:\simple-http\src\lib.rs D:\simple-http\src\main.rs
+D:\file-server\target\debug\simple-http.exe: D:\file-server\src\http\mod.rs D:\file-server\src\http\request.rs D:\file-server\src\http\response.rs D:\file-server\src\lib.rs D:\file-server\src\main.rs

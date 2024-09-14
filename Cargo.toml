@@ -1,10 +1,10 @@
 [package]
-name = "simple_file_server"
+name = "simple-http"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-walkdir = "2.3"
-infer = "0.8.0"
-url-escape = "0.1"
-mime_guess = "2.0"
+walkdir = "2.3.2"   # For traversing directories
+infer = "0.6.0"     # For detecting file types
+url-escape = "0.1.1" # For handling special URL characters
+percent-encoding = "2.2"
